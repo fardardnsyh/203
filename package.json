@@ -1,0 +1,27 @@
+{
+  "name": "invoicesapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "firebase": "^9.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.2",
+    "styled-components": "^5.3.6",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "prettier": "^2.7.1",
+    "vite": "^3.1.0"
+  }
+}
